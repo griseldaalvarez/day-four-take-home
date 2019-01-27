@@ -1,0 +1,16 @@
+.icon{
+  background-color: green;
+  border-color: black;
+  height: 60px;
+  width: 55px;
+  color: white;
+  margin-top: 15px;
+}
+
+.black{
+  background: green;
+  border-color: black;
+  height: 30px;
+  color: white;
+  margin-top: 25px;
+}
