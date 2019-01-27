@@ -2,9 +2,10 @@
   background-color: green;
   border-color: black;
   height: 60px;
-  width: 55px;
+  width: 85px;
   color: white;
   margin-top: 15px;
+  text-align: center;
 }
 
 .black{
@@ -13,4 +14,29 @@
   height: 30px;
   color: white;
   margin-top: 25px;
+}
+
+.right_first{
+  /* margin-left: 10px; */
+}
+
+.right_second{
+  margin-left: 97px;
+}
+
+.right_third{
+  float: right;
+}
+
+.thick_box{
+  background-color: green;
+  height: 400px;
+  margin-top: 15px;
+}
+
+.third_row{
+  background: green;
+  height: 35px;
+  margin-top: 15px;
+
 }
