@@ -1,32 +1,25 @@
 .icon{
   background-color: green;
-  border-color: black;
-  height: 60px;
-  width: 85px;
-  color: white;
+  height: 55px;
   margin-top: 15px;
+  color: white;
   text-align: center;
 }
 
+
 .black{
-  background: green;
-  border-color: black;
-  height: 30px;
+  background-color: green;
+  height: 20px;
+  margin-top: 30px;
   color: white;
-  margin-top: 25px;
+  text-align: center;
 }
 
-.right_first{
-  /* margin-left: 10px; */
-}
-
-.right_second{
-  margin-left: 97px;
-}
-
-.right_third{
+.index{
+  margin-left: 45px;
   float: right;
 }
+
 
 .thick_box{
   background-color: green;
